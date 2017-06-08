@@ -29,7 +29,7 @@ Recursos disponibles
 
 ### Curriculums Vitae de magistrados para cubrir vacantes en el Poder Judicial y el Ministerio Público de la Nación
 
--   **Nombre:** cv-magistrados-vacantes-poder-judicial-ministerio-publico.csv
+-   **Nombre:** cv-magistrados-poder-judicial-ministerio-publico.csv
 
 -   **Descripción:** Curriculums vitae de los Magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.
 
@@ -64,6 +64,22 @@ Recursos disponibles
 -   **link\_txt\_curriculum\_magistrado (string):** Link al curriculum vitae del magistrado
 
 -   **link\_html\_curriculum\_magistrado (string):** Link al curriculum vitae del magistrado
+
+### Curriculums Vitae de magistrados anexo texto
+
+-   **Nombre:** cv-magistrados-anexo-texto.csv
+
+-   **Descripción:** Curriculums vitae de los Magistrados. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso. Texto completo.
+
+-   **Formato:** CSV delimitado por coma
+
+-   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+
+### Campos del recurso
+
+-   **id\_curriculum (string):** Código de magistrado, permite relacionarlo con el concurso al que se presentó
+
+-   **nombre\_magistrado (string):** Nombre del magistrado al que pertenece el curriculum vitae
 
 -   **texto\_curriculum (string):** Texto del curriculum vitae presentado por el magistrado. (El símbolo | representa el salto de línea)
 
@@ -112,3 +128,4 @@ Recursos disponibles
 -   **observación\_concurso (string):** Anotaciones complementarias (fecha de publicación en el B.O, orden de mérito, N° de resolución en la que se publicó la terna, etc.)
 
 -   **id\_curriculum (string):** Identificación del curriculum del magistrado, permite relacionarlo con el curriculum vitae presentado
+
