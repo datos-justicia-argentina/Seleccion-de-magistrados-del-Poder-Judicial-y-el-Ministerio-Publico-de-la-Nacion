@@ -33,7 +33,7 @@ Recursos disponibles
 
 -   **Descripción:** Curriculums vitae de los Magistrados postulados para cubrir vacantes en el Poder judicial de la Nación y el Ministerio Público. Puede haber más de un curriculum por magistrado en aquellos casos en que el magistrado se haya presentado en más de un concurso.
 
--   **Formato:** CSV delimitado por coma
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
