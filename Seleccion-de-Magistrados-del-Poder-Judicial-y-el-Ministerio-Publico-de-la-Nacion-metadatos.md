@@ -10,7 +10,7 @@ En cuanto a los demás jueces de los tribunales federales inferiores, los nombra
 Características
 ---------------
 
--   **Fecha de Publicación:** 15/05/2017
+-   **Fecha de Publicación:** 28/06/2017
 
 -   **Tags o Etiquetas:** juez, fiscal, defensor, magistrado, vacante, cargo, concurso, justicia, poder judicial, ministerio público, curriculum
 
@@ -27,50 +27,50 @@ Características
 Recursos disponibles
 --------------------
 
-### <span id="curriculums-vitae-de-magistrados-para-cu" class="anchor"><span id="curriculums-vitae-de-magistrados-anexo-t" class="anchor"><span id="concursos-para-la-selección-de-magistrad" class="anchor"></span></span></span>Concursos para la selección de Magistrados en el Poder Judicial y el Ministerio Público de la Nación
+### Concursos para la selección de Magistrados en el Poder Judicial y el Ministerio Público de la Nación
 
--   **Nombre:** concursos-magistrados-poder-judicial-ministerio-publico-estado-al-AAA-MM-DD.csv
+-   **Nombre:** concursos-magistrados-poder-judicial-ministerio-publico-AAA-MM-DD.csv
 
--   **Descripción:** Datos de los concursos para la selección de Magistrados del Poder Judicial y el Ministerio Público de la Nación abiertos a tal fin, la integración de las respectivas ternas, los puntajes obtenidos por los profesionales propuestos en las etapas de evaluación cumplidas.
+-   **Descripción:** datos de los concursos para la selección de Magistrados del Poder Judicial y el Ministerio Público de la Nación abiertos a tal fin, la integración de las respectivas ternas, los puntajes obtenidos por los profesionales propuestos en las etapas de evaluación cumplidas.
 
--   **Formato:** CSV delimitado por coma
+-   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
 -   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
--   **fecha\_publicacion\_concurso (date):** Fecha de publicación del concurso
+-   **fecha_publicacion_concurso (date):** fecha de publicación del concurso
 
--   **numero\_expediente\_concurso (int):** Número de expediente con el que se tramitó el concurso para la selección de magistrados
+-   **numero_expediente_concurso (int):** número de expediente con el que se tramitó el concurso para la selección de magistrados
 
--   **numero\_concurso (int):** Número de concurso al que se postuló el magistrado
+-   **numero_concurso (int):** número de concurso al que se postuló el magistrado
 
--   **ambito\_origen\_concurso\_codigo (string):** Código del ámbito en el cuál se originó el concurso. Valores posibles: CMN, Consejo de la Magistratura de la Nación, MPF Ministerio Público Fiscal y MPD Ministerio Público de la Defensa,
+-   **ambito_origen_concurso_codigo (string):** código del ámbito en el cuál se originó el concurso. Valores posibles: CMN, Consejo de la Magistratura de la Nación, MPF Ministerio Público Fiscal y MPD Ministerio Público de la Defensa
 
--   **ambito\_origen\_concurso\_descripcion (string):** Descripción del ámbito en el cuál se originó el concurso. Valores posibles: Consejo de la Magistratura de la Nación, Ministerio Público Fiscal y Ministerio Público de la Defensa,
+-   **ambito_origen_concurso_descripcion (string):** descripción del ámbito en el cuál se originó el concurso. Valores posibles: Consejo de la Magistratura de la Nación, Ministerio Público Fiscal y Ministerio Público de la Defensa
 
--   **cargo\_concursado (string):** Cargo al que se postuló el magistrado.
+-   **cargo_concursado (string):** cargo al que se postuló el magistrado.
 
--   **cantidad\_cargos\_concursados (int):** Cantidad de cargos vacantes que se tramitan en el expediente
+-   **cantidad_cargos_concursados (int):** antidad de cargos vacantes que se tramitan en el expediente
 
--   **numero\_terna (int):** Número de terna, en caso de existir más de una.
+-   **numero_terna (int):** número de terna, en caso de existir más de una.
 
--   **identificacion\_terna (string):** Terna seleccionada para cubrir la vacante
+-   **identificacion_terna (string):** terna seleccionada para cubrir la vacante
 
--   **nombre\_postulante (string):** Nombre del magistrado que se postuló
+-   **nombre_postulante (string):** nombre del magistrado que se postuló
 
--   **dni\_postulante(int):** Número de documento del magistrado que se postuló
+-   **dni_postulante(int):** número de documento del magistrado que se postuló
 
--   **puntaje\_jurado (int):** Puntaje obtenido por el magistrados según el jurado
+-   **puntaje_jurado (int):** puntaje obtenido por el magistrados según el jurado
 
--   **puntaje\_comision\_seleccion (int):** Puntaje obtenido por el magistrados según la comisión de selección
+-   **puntaje_comision_seleccion (int):** puntaje obtenido por el magistrados según la comisión de selección
 
--   **orden\_merito\_comision\_seleccion (int):** Número de orden en mérito de la comisión de selección
+-   **orden_merito_comision_seleccion (int):** número de orden en mérito de la comisión de selección
 
--   **orden\_merito\_plenario (string):** Número de orden en mérito del plenario
+-   **orden_merito_plenario (string):** número de orden en mérito del plenario
 
--   **observación\_concurso (string):** Anotaciones complementarias (fecha de publicación en el B.O, orden de mérito, N° de resolución en la que se publicó la terna, etc.)
+-   **observación_concurso (string):** anotaciones complementarias (fecha de publicación en el B.O, orden de mérito, N° de resolución en la que se publicó la terna, etc.)
 
--   **link\_txt\_curriculum\_magistrado (string):** Link al curriculum vitae del magistrado
+-   **link_txt_curriculum_magistrado (string):** link al curriculum vitae del magistrado
 
--   **link\_html\_curriculum\_magistrado (string):** Link al curriculum vitae del magistrado
+-   **link_html_curriculum_magistrado (string):** link al curriculum vitae del magistrado
