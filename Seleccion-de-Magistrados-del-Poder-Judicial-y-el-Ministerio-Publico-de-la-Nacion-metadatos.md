@@ -1,5 +1,5 @@
-Selección de Magistrados del Poder Judicial y el Ministerio Público de la Nación
-================================================================================
+Concursos para la selección de magistrados del Poder Judicial y el Ministerio Público de la Nación
+==================================================================================================
 
 En este conjunto de datos se detalla la cantidad de vacantes a cubrir en el Poder Judicial y los Ministerios Públicos de la Nación, los concursos abiertos a tal fin, la integración de las respectivas ternas, los puntajes obtenidos por los profesionales propuestos en las etapas cumplidas de evaluación, y el Curriculum Vitae presentado por cada uno de ellos.
 
