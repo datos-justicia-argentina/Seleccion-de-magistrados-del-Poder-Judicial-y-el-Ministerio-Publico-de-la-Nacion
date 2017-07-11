@@ -27,7 +27,7 @@ Características
 Recursos disponibles
 --------------------
 
-### Ternas para la selección de Magistrados en el Poder Judicial y el Ministerio Público de la Nación
+### Ternas para la selección de magistrados en el Poder Judicial y el Ministerio Público de la Nación
 
 -   **Nombre:** concursos-magistrados-poder-judicial-ministerio-publico-AAA-MM-DD.csv
 
