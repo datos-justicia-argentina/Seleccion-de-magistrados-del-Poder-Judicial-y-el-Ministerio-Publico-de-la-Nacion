@@ -7,12 +7,14 @@ El Presidente de la Nación, de acuerdo a las facultades que le otorga el artíc
 
 En cuanto a los demás jueces de los tribunales federales inferiores, los nombra en base a una propuesta vinculante en terna remitida por el Consejo de la Magistratura, con acuerdo del Senado, en sesión pública, en la que se tendrá en cuenta la idoneidad de los candidatos. En idéntico sentido, nombra a los magistrados de los Ministerios Públicos Fiscal y de la Defensa.
 
+http://datos.jus.gob.ar/dataset/seleccion-de-magistrados-del-poder-judicial-y-el-ministerio-publico-de-la-nacion
+
 Características
 ---------------
 
 -   **Fecha de Primera Publicación:** 28/06/2017
 
--   **Tags o Etiquetas:** juez, fiscal, defensor, magistrado, vacante, cargo, concurso, justicia, poder judicial, ministerio público, curriculum
+-   **Tags o Etiquetas:** cargos,concursos, curriculum vitae, defensores, fiscales, jueces, justicia, magistrados, ministerio público, poder judicial, vacantes
 
 -   **Organización:** Ministerio de Justicia y Derechos Humanos. Secretaría de Justicia. Subsecretaría de Relaciones con el Poder Judicial y Asuntos Penitenciarios
 
@@ -31,7 +33,7 @@ Recursos disponibles
 
 -   **Nombre:** concursos-magistrados-poder-judicial-ministerio-publico-AAA-MM-DD.csv
 
--   **Descripción:** datos de los concursos para la selección de Magistrados del Poder Judicial y el Ministerio Público de la Nación abiertos a tal fin, la integración de las respectivas ternas, los puntajes obtenidos por los profesionales propuestos en las etapas de evaluación cumplidas.
+-   **Descripción del contenido:** se detallan los concursos para la selección de Magistrados del Poder Judicial y el Ministerio Público de la Nación abiertos a tal fin, la integración de las respectivas ternas, los puntajes obtenidos por los profesionales propuestos en las etapas de evaluación cumplidas.
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
