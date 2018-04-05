@@ -77,6 +77,14 @@ Recursos disponibles
 
 -   **link_html_curriculum_magistrado (string):** link al curriculum vitae del magistrado
 
+### Ternas para la selección de magistrados en el Poder Judicial y el Ministerio Público de la Nación - AAAA
+
+- **Nombre:** ternas-seleccion-magistrados-poder-judicial-ministerio-publico-AAAA.zip
+
+- **Descripción del contenido:** archivo comprimido correspondiente al año AAAA con los archivos publicados en el portal datos.jus.gob.ar durante dicho año
+
+- **Formato:** ZIP
+
 Notas
 -----
 Este Conjunto de datos es publicado en el Portal de Datos Abiertos de la Justicia Argentina mediante [Resolución Nº 482 del Ministerio de Justicia y Derechos Humanos](http://datos.jus.gob.ar/resoluciones/RESOL-2017-482-APN-MJ.pdf), del 26 de Junio de 2017.
