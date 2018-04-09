@@ -37,7 +37,7 @@ Recursos disponibles
 
 -   **Formato:** CSV delimitado por comas, codificado en UTF-8
 
--   **Rango temporal:** listado actualizado a la fecha consignada como "Datos actualizados al"
+-   **Rango temporal:** concursos para la selección de Magistrados del Poder Judicial y el Ministerio Público de la Nación desde noviembre de 2017 hasta la fecha consignada como "Datos actualizados al"
 
 ### Campos del recurso
 
